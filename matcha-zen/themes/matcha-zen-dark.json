@@ -1,0 +1,30 @@
+{
+  "name": "Matcha Zen (dark)",
+  "base": "dark",
+  "overrides": {
+    "claude": "#a8d08a",
+    "claudeShimmer": "#c6e4ae",
+    "text": "#e8f0dc",
+    "inactive": "#8a9a7a",
+    "subtle": "#4a5a40",
+    "success": "#8fd19a",
+    "error": "#ee7a6a",
+    "warning": "#e5b85a",
+    "permission": "#b8a8e0",
+    "planMode": "#7ac4d0",
+    "autoAccept": "#8fd19a",
+    "promptBorder": "#4f7a3a",
+    "bashBorder": "#a8d08a",
+    "ide": "#7ac4d0",
+    "fastMode": "#ffb36b",
+    "diffAdded": "#223a22",
+    "diffRemoved": "#4a2a22",
+    "diffAddedDimmed": "#1c2d1c",
+    "diffRemovedDimmed": "#38221d",
+    "diffAddedWord": "#3f7a4a",
+    "diffRemovedWord": "#8f3f32",
+    "userMessageBackground": "#252e21",
+    "userMessageBackgroundHover": "#2f3a2a",
+    "selectionBg": "#3f5a32"
+  }
+}

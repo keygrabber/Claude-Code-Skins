@@ -1,0 +1,30 @@
+{
+  "name": "Sakura (dark)",
+  "base": "dark",
+  "overrides": {
+    "claude": "#ff9fbb",
+    "claudeShimmer": "#ffc2d4",
+    "text": "#fbe9ee",
+    "inactive": "#a98593",
+    "subtle": "#6d4d5b",
+    "success": "#a6d189",
+    "error": "#ff6b8b",
+    "warning": "#f2b66d",
+    "permission": "#c9a4f0",
+    "planMode": "#8fd3d6",
+    "autoAccept": "#ff9fbb",
+    "promptBorder": "#c2476f",
+    "bashBorder": "#ff9fbb",
+    "ide": "#8fd3d6",
+    "fastMode": "#ffb36b",
+    "diffAdded": "#2f4a33",
+    "diffRemoved": "#5a2433",
+    "diffAddedDimmed": "#2a3a2c",
+    "diffRemovedDimmed": "#40222c",
+    "diffAddedWord": "#4f7a52",
+    "diffRemovedWord": "#8f3450",
+    "userMessageBackground": "#3c2833",
+    "userMessageBackgroundHover": "#4a3340",
+    "selectionBg": "#6d3550"
+  }
+}

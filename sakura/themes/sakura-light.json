@@ -1,0 +1,30 @@
+{
+  "name": "Sakura (light)",
+  "base": "light",
+  "overrides": {
+    "claude": "#c2476f",
+    "claudeShimmer": "#e0749a",
+    "text": "#3a2430",
+    "inactive": "#8a6a78",
+    "subtle": "#b79aa6",
+    "success": "#4f7a52",
+    "error": "#b3263e",
+    "warning": "#a8691a",
+    "permission": "#7b5a9c",
+    "planMode": "#4a7c8a",
+    "autoAccept": "#c2476f",
+    "promptBorder": "#d98ba6",
+    "bashBorder": "#c2476f",
+    "ide": "#4a7c8a",
+    "fastMode": "#d9722b",
+    "diffAdded": "#d9ecd6",
+    "diffRemoved": "#f6cfd6",
+    "diffAddedDimmed": "#ebf5e9",
+    "diffRemovedDimmed": "#fae6ea",
+    "diffAddedWord": "#a9d3a4",
+    "diffRemovedWord": "#ee9aaa",
+    "userMessageBackground": "#fbe3ea",
+    "userMessageBackgroundHover": "#f7d3de",
+    "selectionBg": "#f5b8cb"
+  }
+}

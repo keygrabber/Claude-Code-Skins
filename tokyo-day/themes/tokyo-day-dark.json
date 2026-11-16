@@ -1,0 +1,30 @@
+{
+  "name": "Tokyo Day (dusk)",
+  "base": "dark",
+  "overrides": {
+    "claude": "#ff6a55",
+    "claudeShimmer": "#ff9a8a",
+    "text": "#eef2f7",
+    "inactive": "#8993a6",
+    "subtle": "#4a5468",
+    "success": "#5fd0a0",
+    "error": "#ff6b6f",
+    "warning": "#f5b04a",
+    "permission": "#9aa0ff",
+    "planMode": "#5cc4f0",
+    "autoAccept": "#5fd0a0",
+    "promptBorder": "#556078",
+    "bashBorder": "#ff6a55",
+    "ide": "#5cc4f0",
+    "fastMode": "#ffb36b",
+    "diffAdded": "#1b3a2c",
+    "diffRemoved": "#4a2326",
+    "diffAddedDimmed": "#182c24",
+    "diffRemovedDimmed": "#33202a",
+    "diffAddedWord": "#2f7d5b",
+    "diffRemovedWord": "#9a3a3e",
+    "userMessageBackground": "#222833",
+    "userMessageBackgroundHover": "#2c3442",
+    "selectionBg": "#33466a"
+  }
+}
