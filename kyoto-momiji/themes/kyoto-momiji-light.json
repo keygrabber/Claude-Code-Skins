@@ -1,0 +1,30 @@
+{
+  "name": "Kyoto Momiji (light)",
+  "base": "light",
+  "overrides": {
+    "claude": "#b8372a",
+    "claudeShimmer": "#dc6a4a",
+    "text": "#33201a",
+    "inactive": "#85695a",
+    "subtle": "#bfa48f",
+    "success": "#5a7a35",
+    "error": "#a8232a",
+    "warning": "#b36a12",
+    "permission": "#7a4a7e",
+    "planMode": "#3f7a78",
+    "autoAccept": "#5a7a35",
+    "promptBorder": "#d08a6a",
+    "bashBorder": "#b8372a",
+    "ide": "#3f7a78",
+    "fastMode": "#d9722b",
+    "diffAdded": "#e0ead0",
+    "diffRemoved": "#f4d2c6",
+    "diffAddedDimmed": "#eff4e5",
+    "diffRemovedDimmed": "#f9e6df",
+    "diffAddedWord": "#b3cf8c",
+    "diffRemovedWord": "#e8a08a",
+    "userMessageBackground": "#f1dcc4",
+    "userMessageBackgroundHover": "#e8cdae",
+    "selectionBg": "#ecc29f"
+  }
+}

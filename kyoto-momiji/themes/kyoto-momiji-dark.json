@@ -1,0 +1,30 @@
+{
+  "name": "Kyoto Momiji (dark)",
+  "base": "dark",
+  "overrides": {
+    "claude": "#f07a52",
+    "claudeShimmer": "#f6a07a",
+    "text": "#f6e6d4",
+    "inactive": "#a58c76",
+    "subtle": "#5e4538",
+    "success": "#a8c47a",
+    "error": "#ff6b5a",
+    "warning": "#f0b04a",
+    "permission": "#c8a0d0",
+    "planMode": "#7ec0bc",
+    "autoAccept": "#a8c47a",
+    "promptBorder": "#b8372a",
+    "bashBorder": "#f07a52",
+    "ide": "#7ec0bc",
+    "fastMode": "#ffb36b",
+    "diffAdded": "#2a3a1c",
+    "diffRemoved": "#4e2218",
+    "diffAddedDimmed": "#222f18",
+    "diffRemovedDimmed": "#3a1d17",
+    "diffAddedWord": "#4f6a2a",
+    "diffRemovedWord": "#933624",
+    "userMessageBackground": "#32231d",
+    "userMessageBackgroundHover": "#402d25",
+    "selectionBg": "#6a3a24"
+  }
+}

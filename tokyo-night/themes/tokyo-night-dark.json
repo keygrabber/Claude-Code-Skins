@@ -1,0 +1,30 @@
+{
+  "name": "Tokyo Night (neon)",
+  "base": "dark",
+  "overrides": {
+    "claude": "#ff4fa3",
+    "claudeShimmer": "#ff8cc6",
+    "text": "#e6e8ff",
+    "inactive": "#7f86b8",
+    "subtle": "#3c4072",
+    "success": "#3ddc97",
+    "error": "#ff5370",
+    "warning": "#ffb454",
+    "permission": "#b388ff",
+    "planMode": "#19e6ff",
+    "autoAccept": "#3ddc97",
+    "promptBorder": "#7a5cff",
+    "bashBorder": "#ff4fa3",
+    "ide": "#19e6ff",
+    "fastMode": "#ffb454",
+    "diffAdded": "#0f3a30",
+    "diffRemoved": "#4a1530",
+    "diffAddedDimmed": "#0c2a24",
+    "diffRemovedDimmed": "#33122a",
+    "diffAddedWord": "#1b7a5c",
+    "diffRemovedWord": "#9a2a5c",
+    "userMessageBackground": "#181a36",
+    "userMessageBackgroundHover": "#22254a",
+    "selectionBg": "#3a2f7a"
+  }
+}

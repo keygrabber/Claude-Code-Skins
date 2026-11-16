@@ -1,0 +1,30 @@
+{
+  "name": "Tokyo Day (light)",
+  "base": "light",
+  "overrides": {
+    "claude": "#d6342b",
+    "claudeShimmer": "#ef6a5f",
+    "text": "#1d2433",
+    "inactive": "#6b7588",
+    "subtle": "#a9b3c3",
+    "success": "#2f7d5b",
+    "error": "#c0262d",
+    "warning": "#b36b00",
+    "permission": "#5b5fc7",
+    "planMode": "#1f7aa8",
+    "autoAccept": "#2f7d5b",
+    "promptBorder": "#8a9ab3",
+    "bashBorder": "#d6342b",
+    "ide": "#1f7aa8",
+    "fastMode": "#d9722b",
+    "diffAdded": "#d6eddf",
+    "diffRemoved": "#f6d3d3",
+    "diffAddedDimmed": "#eaf6ef",
+    "diffRemovedDimmed": "#faeaea",
+    "diffAddedWord": "#9fd3b5",
+    "diffRemovedWord": "#eb9d9d",
+    "userMessageBackground": "#dde4ee",
+    "userMessageBackgroundHover": "#cdd7e6",
+    "selectionBg": "#b7c9e6"
+  }
+}
